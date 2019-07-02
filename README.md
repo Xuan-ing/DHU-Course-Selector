@@ -1,6 +1,6 @@
 # DHU Course Selector
-A simple, automatic course selector in Donghua University
-You cannot share it to others out of GitHub!
+A simple, automatic course selector in Donghua University.
+
 # Prerequisites
 - Connect to DHU or DHU-1X or any external networks with VPN
 - Python interpreter (IDLE, PyCharm, ...)
