@@ -2,7 +2,7 @@
 A simple, automatic course selector in Donghua University.
 
 # Prerequisites
-- Connect to DHU or DHU-1X or any external networks with VPN
+- Connect to DHU or DHU-1X or any other external network with VPN
 - Python interpreter (IDLE, PyCharm, ...)
 # Library Requirements
 - requests
